@@ -12,6 +12,7 @@ Visualizations (publications trend, top journals, word clouds)
 
 An interactive Streamlit dashboard for exploration
 
+
 🛠️ Steps Performed
 1. Data Loading
 
@@ -53,6 +54,7 @@ Interactive plots and data preview.
 
 Dynamic updates based on selected filters.
 
+
 📈 Example Visualizations
 
 Publications over time (line chart)
@@ -62,6 +64,7 @@ Top journals (bar chart)
 Word cloud of titles
 
 Distribution by source (bar chart)
+
 
 🚀 How to Run
 Prerequisites
@@ -74,6 +77,7 @@ pip install pandas matplotlib seaborn wordcloud streamlit
 
 Run Streamlit App
 streamlit run app.py
+
 
 📑 Reflection
 
@@ -88,6 +92,7 @@ Learned to generate visualizations for real-world datasets.
 Built and deployed an interactive Streamlit app.
 
 Next Steps: Could add NLP-based keyword extraction, citation analysis, or trend prediction.
+
 
 ✅ Evaluation Criteria Mapping
 
